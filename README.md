@@ -1,3 +1,2 @@
 # TheFirstRepository
-test
-test2
+This is the first repository.
